@@ -1,0 +1,8 @@
+{
+  "feeRulesAPI": {
+    "cashIn": "http://private-38e18c-uzduotis.apiary-mock.com/config/cash-in",
+    "cashOutNatural": "http://private-38e18c-uzduotis.apiary-mock.com/config/cash-out/natural",
+    "cashOutJuridical": "http://private-38e18c-uzduotis.apiary-mock.com/config/cash-out/juridical"
+  },
+  "inputDataPath": "./public/inputData.json"
+}

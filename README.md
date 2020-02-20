@@ -1,2 +1,12 @@
-# transactions-app
-The application calculates the commission for crediting and withdrawing funds from the account.
+
+## Running the program
+
+Install node modules - `npm install`
+
+Start the program - `npm run dev`
+
+## Testing
+
+Run tests - `npm run test`
+
+Generate test coverage report - `npm run test:coverage`
